@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true" />
-
+<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=javascript,html,css,pascal,roff,coldfusion" />
 <img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=sekmenhuseyin&count_private=true&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" />
 
 
