@@ -1,4 +1,8 @@
-### Hi there 👋
+#### LinkedIn: https://www.linkedin.com/in/sekmenhuseyin/
+#### Web: https://sekmen.dev/
+#### Blog: https://huseyinsekmenoglu.net/
+
+<hr>
 
 <img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true" />
 <img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=javascript,html,css,pascal,roff,coldfusion" />
