@@ -22,23 +22,14 @@
 
 ### 💬 Get in touch
 
-### <a href="https://www.linkedin.com/in/sekmenhuseyin/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square"
-  />
+### <a target="_blank" href="https://www.linkedin.com/in/sekmenhuseyin/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
 </a>
-### <a href="https://sekmen.dev/">
-  <img
-    alt="Portfolio"
-    src="https://img.shields.io/badge/sekmen.dev-purple?logo=sega&logoColor=white&style=flat-square"
-  />
+### <a target="_blank" href="https://sekmen.dev/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/sekmen.dev-purple?logo=sega&logoColor=white&style=flat-square" />
 </a>
-### <a href="https://huseyinsekmenoglu.net/">
-  <img
-    alt="Blog"
-    src="https://img.shields.io/badge/huseyinsekmenoglu.net-gray?logo=rss&logoColor=white&style=flat-square"
-  />
+### <a target="_blank" href="https://huseyinsekmenoglu.net/">
+  <img alt="Blog" src="https://img.shields.io/badge/huseyinsekmenoglu.net-gray?logo=rss&logoColor=white&style=flat-square" />
 </a>
 
 ---
