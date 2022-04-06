@@ -14,10 +14,8 @@
   <img alt="MySql" src="https://img.shields.io/badge/MySql-47A248?logo=MySql&logoColor=white&style=flat-square"/>
   <img alt="MsSql" src="https://img.shields.io/badge/MsSql-47A248?logo=microsoft&logoColor=white&style=flat-square"/>
   <img alt="Azure" src="https://img.shields.io/badge/Azure-blue?logo=microsoft&logoColor=white&style=flat-square"/>
-  <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=white&style=flat-square"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square"/>
 </p>
 
 ---
