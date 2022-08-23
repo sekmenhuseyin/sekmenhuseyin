@@ -7,31 +7,35 @@
 ### 👨🏻‍💻 Tech Stack
 
 <p>
-  <img alt="Asp.Net Core" src="https://img.shields.io/badge/Asp.Net Core-blueviolet?logo=.net&logoColor=white&style=flat-square"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square" />
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square"/>
-  <img alt="NextJS" src="https://img.shields.io/badge/NextJS-E0234E?logo=react&logoColor=white&style=flat-square"/>
-  <img alt="MySql" src="https://img.shields.io/badge/MySql-47A248?logo=MySql&logoColor=white&style=flat-square"/>
-  <img alt="MsSql" src="https://img.shields.io/badge/MsSql-47A248?logo=microsoft&logoColor=white&style=flat-square"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-blue?logo=microsoft&logoColor=white&style=flat-square"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
+  <img alt="Asp.Net Core" src="https://img.shields.io/static/v1?style=for-the-badge&message=ASP.NET Core&color=512BD4&logo=.NET&logoColor=FFFFFF&label="/>
+  <img alt="Umbraco" src="https://img.shields.io/static/v1?style=for-the-badge&message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label="/>
+  <img alt="Elastic" src="https://img.shields.io/static/v1?style=for-the-badge&message=Elastic&color=005571&logo=Elastic&logoColor=FFFFFF&label="/>
+  <img alt="Javascript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" />
+  <img alt="Typescript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
+  <img alt="Next.JS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/>
+  <img alt="Azure" src="https://img.shields.io/static/v1?style=for-the-badge&message=Azure&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label="/>
+  <img alt="CI+CD" src="https://img.shields.io/static/v1?style=for-the-badge&message=CI+CD&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label="/>
+  <img alt="Docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
 </p>
 
 ---
 
 ### 💬 Get in touch
 
-### <a target="_blank" href="https://www.linkedin.com/in/sekmenhuseyin/">
+<a target="_blank" href="https://www.linkedin.com/in/sekmenhuseyin/">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
 </a>
 
-### <a target="_blank" href="https://sekmen.dev/">
+<a target="_blank" href="https://sekmen.dev/">
   <img alt="Portfolio" src="https://img.shields.io/badge/sekmen.dev-purple?logo=sega&logoColor=white&style=flat-square" />
 </a>
 
-### <a target="_blank" href="https://huseyinsekmenoglu.net/">
+<a target="_blank" href="https://huseyinsekmenoglu.net/">
   <img alt="Blog" src="https://img.shields.io/badge/huseyinsekmenoglu.net-gray?logo=rss&logoColor=white&style=flat-square" />
+</a>
+
+<a target="_blank" href="https://umbraco.com/training/certified-developers/developer/?id=54ff9d4e-eae2-4336-9d66-8f4f57a56a1e">
+  <img alt="Umbraco Certified Professional" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label=" />
 </a>
 
 ---
