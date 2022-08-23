@@ -7,15 +7,15 @@
 ### 👨🏻‍💻 Tech Stack
 
 <p>
-  <img alt="Asp.Net Core" src="https://img.shields.io/static/v1?style=for-the-badge&message=ASP.NET Core&color=512BD4&logo=.NET&logoColor=FFFFFF&label="/>
-  <img alt="Umbraco" src="https://img.shields.io/static/v1?style=for-the-badge&message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label="/>
-  <img alt="Elastic" src="https://img.shields.io/static/v1?style=for-the-badge&message=Elastic&color=005571&logo=Elastic&logoColor=FFFFFF&label="/>
-  <img alt="Javascript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" />
-  <img alt="Typescript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
-  <img alt="Next.JS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/>
-  <img alt="Azure" src="https://img.shields.io/static/v1?style=for-the-badge&message=Azure&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label="/>
-  <img alt="CI+CD" src="https://img.shields.io/static/v1?style=for-the-badge&message=CI+CD&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label="/>
-  <img alt="Docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
+  <img alt="Asp.Net Core" src="https://img.shields.io/static/v1?message=ASP.NET Core&color=512BD4&logo=.NET&logoColor=FFFFFF&label="/>
+  <img alt="Umbraco" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label="/>
+  <img alt="Elastic" src="https://img.shields.io/static/v1?message=Elastic&color=005571&logo=Elastic&logoColor=FFFFFF&label="/>
+  <img alt="Javascript" src="https://img.shields.io/static/v1?message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" />
+  <img alt="Typescript" src="https://img.shields.io/static/v1?message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
+  <img alt="Next.JS" src="https://img.shields.io/static/v1?message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/>
+  <img alt="Azure" src="https://img.shields.io/static/v1?message=Azure&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label="/>
+  <img alt="CI+CD" src="https://img.shields.io/static/v1?message=CI+CD&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label="/>
+  <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
 </p>
 
 ---
