@@ -12,7 +12,7 @@
   <img alt="Elastic" src="https://img.shields.io/static/v1?message=Elastic&color=005571&logo=Elastic&logoColor=FFFFFF&label="/>
   <img alt="Javascript" src="https://img.shields.io/static/v1?message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" />
   <img alt="Typescript" src="https://img.shields.io/static/v1?message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
-  <img alt="Next.JS" src="https://img.shields.io/static/v1?message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/>
+  <img alt="Next.JS" src="https://img.shields.io/static/v1?message=Next.js&color=F7DF1E&logo=Next.js&logoColor=000000&label="/>
   <img alt="Azure" src="https://img.shields.io/static/v1?message=Azure&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label="/>
   <img alt="CI+CD" src="https://img.shields.io/static/v1?message=CI+CD&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label="/>
   <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
