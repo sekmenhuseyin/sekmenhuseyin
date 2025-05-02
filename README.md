@@ -8,7 +8,9 @@
 
 <p>
   <img alt="Asp.Net Core" src="https://img.shields.io/static/v1?message=CORE&color=512BD4&logo=.net&logoColor=FFFFFF&label="/>
-  <img alt="Umbraco" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label="/>
+  <a target="_blank" href="https://umbraco.com/training/certified-developers/developer/?uid=39196">
+    <img alt="Umbraco" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label="/>
+  </a>
   <img alt="Javascript" src="https://img.shields.io/static/v1?message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" />
   <img alt="Typescript" src="https://img.shields.io/static/v1?message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
   <img alt="React" src="https://img.shields.io/static/v1?message=React&color=005571&logo=React&logoColor=FFFFFF&label="/>
@@ -23,20 +25,20 @@
 ### 💬 Get in touch
 
 <a target="_blank" href="https://www.linkedin.com/in/sekmenhuseyin/">
-  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
+  <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
 </a>
 
-<a target="_blank" href="https://sekmen.dev/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/sekmen.dev-purple?logo=sega&logoColor=white&style=flat-square" />
+<a target="_blank" href="https://huseyin.sekmen.dev/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/huseyin.sekmen.dev-purple?logo=sega&logoColor=white&style=flat-square" />
 </a>
 
-<a target="_blank" href="https://huseyinsekmenoglu.net/">
+<!--<a target="_blank" href="https://huseyinsekmenoglu.net/">
   <img alt="Blog" src="https://img.shields.io/badge/huseyinsekmenoglu.net-gray?logo=rss&logoColor=white&style=flat-square" />
 </a>
 
 <a target="_blank" href="https://umbraco.com/training/certified-developers/developer/?uid=39196">
   <img alt="Umbraco Certified Professional" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label=" />
-</a>
+</a>-->
 
 ---
 
