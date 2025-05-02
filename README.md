@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 Tech Stack
 
 <p>
-  <img alt="Asp.Net Core" src="https://img.shields.io/static/v1?message=ASP.NET Core&color=512BD4&logo=.NET&logoColor=FFFFFF&label="/>
+  <img alt="Asp.Net Core" src="https://img.shields.io/static/v1?message=.NET&color=512BD4&logo=asp&logoColor=FFFFFF&label="/>
   <img alt="Umbraco" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label="/>
   <img alt="Javascript" src="https://img.shields.io/static/v1?message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" />
   <img alt="Typescript" src="https://img.shields.io/static/v1?message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
