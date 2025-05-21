@@ -9,8 +9,7 @@
 <p>
   <img alt="Asp.Net Core" src="https://img.shields.io/static/v1?message=CORE&color=512BD4&logo=.net&logoColor=FFFFFF&label="/>
   <a target="_blank" href="https://umbraco.com/training/certified-developers/developer/?uid=39196">
-    <img alt="Umbraco" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label="/>
-  </a>
+    <img alt="Umbraco" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label="/></a>
   <img alt="Javascript" src="https://img.shields.io/static/v1?message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" />
   <img alt="Typescript" src="https://img.shields.io/static/v1?message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
   <img alt="React" src="https://img.shields.io/static/v1?message=React&color=005571&logo=React&logoColor=FFFFFF&label="/>
