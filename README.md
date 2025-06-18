@@ -19,6 +19,14 @@
   <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
 </p>
 
+<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=php,coffeescript" />
+<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=javascript,html,css,pascal,roff,coldfusion,php,coffeescript" />
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sekmenhuseyin&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 ### 💬 Get in touch
@@ -30,24 +38,6 @@
 <a target="_blank" href="https://huseyin.sekmen.dev/">
   <img alt="Portfolio" src="https://img.shields.io/badge/huseyin.sekmen.dev-purple?logo=sega&logoColor=white&style=flat-square" />
 </a>
-
-<!--<a target="_blank" href="https://huseyinsekmenoglu.net/">
-  <img alt="Blog" src="https://img.shields.io/badge/huseyinsekmenoglu.net-gray?logo=rss&logoColor=white&style=flat-square" />
-</a>
-
-<a target="_blank" href="https://umbraco.com/training/certified-developers/developer/?uid=39196">
-  <img alt="Umbraco Certified Professional" src="https://img.shields.io/static/v1?message=Umbraco&color=3544B1&logo=Umbraco&logoColor=FFFFFF&label=" />
-</a>-->
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sekmenhuseyin&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=php,coffescript" />
-<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=javascript,html,css,pascal,roff,coldfusion,php,coffescript" />
-
 
 
 
