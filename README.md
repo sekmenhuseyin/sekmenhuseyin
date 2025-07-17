@@ -1,6 +1,6 @@
 ### 🚀 About Me 
 
-10x .Net Developer || Umbraco Certified Professional || Working from Home || 😎
+10x Fullstack .Net & React Developer || Umbraco Certified Professional || Working Remote || 😎
 
 ---
 
