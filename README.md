@@ -2,7 +2,13 @@
 
 10x Fullstack .Net & React Developer || Umbraco Certified Professional || Working Remote || 😎
 
+---
+
+<br>
+
 Visit current profile: https://github.com/huseyin-sekmenoglu-covergo
+
+<br >
 
 ---
 
