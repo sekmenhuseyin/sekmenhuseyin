@@ -6,7 +6,7 @@
 
 <br>
 
-Visit current profile: https://github.com/huseyin-sekmenoglu-covergo
+Visit current profile: https://github.com/huseyin-sekmenoglu
 
 <br >
 
