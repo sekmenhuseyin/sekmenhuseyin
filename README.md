@@ -19,8 +19,8 @@
   <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
 </p>
 
-<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-sekmenoglu-covergo&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=php,coffeescript" />
-<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin-sekmenoglu-covergo&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=javascript,html,css,pascal,roff,coldfusion,php,coffeescript" />
+<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huseyin-sekmenoglu-covergo&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=php,coffeescript" />
+<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huseyin-sekmenoglu-covergo&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=javascript,html,css,pascal,roff,coldfusion,php,coffeescript" />
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 
@@ -43,7 +43,7 @@
 
 
 <!--
-<img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=sekmenhuseyin&count_private=true&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" />
+<img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=sekmenhuseyin&count_private=true&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" />
 
 **sekmenhuseyin/sekmenhuseyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
