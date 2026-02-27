@@ -24,7 +24,7 @@
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sekmenhuseyin&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=sekmenhuseyin&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
