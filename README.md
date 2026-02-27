@@ -19,12 +19,12 @@
   <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
 </p>
 
-<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huseyin-sekmenoglu-covergo&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=php,coffeescript" />
-<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huseyin-sekmenoglu-covergo&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=javascript,html,css,pascal,roff,coldfusion,php,coffeescript" />
+<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=php,coffeescript" />
+<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sekmenhuseyin&theme=dracula&count_private=true&layout=compact&include_all_commits=true&hide=javascript,html,css,pascal,roff,coldfusion,php,coffeescript" />
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=huseyin-sekmenoglu-covergo&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sekmenhuseyin&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
